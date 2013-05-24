@@ -6,3 +6,4 @@ drive car
 put anti freeze in car
 polish car
 replace windscreen
+zinc car
