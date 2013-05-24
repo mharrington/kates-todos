@@ -1,9 +1,10 @@
-
-wash car
-repair car
-insure car
 drive car
-put anti freeze in car
+insure car
 polish car
+put anti freeze in car
+repair car
 replace windscreen
+wash car
 zinc car
+
+
