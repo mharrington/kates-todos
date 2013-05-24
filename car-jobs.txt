@@ -6,5 +6,7 @@ repair car
 replace breaks
 wash car
 zinc car
-
-
+add go faster stripes
+add spoiler
+put on slick tyres
+add role cage
